@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Wrote notes on upcoming feature design
 - Investigated performance bottleneck, noted findings
+
+## 2026-04-29
+- Verified API endpoint response schema
+- Noted known limitation in docs
